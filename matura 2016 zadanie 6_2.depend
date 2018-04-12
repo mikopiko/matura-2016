@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523551833 source:c:\users\mikol\desktop\programowanie w c\matura 2016 zadanie 6_2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
